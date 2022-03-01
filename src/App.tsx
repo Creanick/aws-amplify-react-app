@@ -27,7 +27,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello Vite + Manick!</p>
+        <p>This is from beta button</p>
         <p>
           <Button count={count} type="button" onClick={increment}>
             count is: {count}
